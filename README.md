@@ -1,0 +1,2 @@
+# LIDER-TELECOM
+Privacy Policy
