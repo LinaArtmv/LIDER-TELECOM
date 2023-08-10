@@ -1,5 +1,5 @@
 ## LIDER-TELECOM
-#Privacy Policy
+# Privacy Policy
 
 Angelina Artemeva built the LIDER TELECOM app as a Free app. This SERVICE is provided by Angelina Artemeva at no cost and is intended for use as is.
 
